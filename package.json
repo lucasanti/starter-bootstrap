@@ -1,0 +1,11 @@
+{
+  "name": "bootstrap-starter",
+  "version": "1.0.0",
+  "description": "Starter theme for developing with Bootstrap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luca Santi",
+  "license": "ISC"
+}
